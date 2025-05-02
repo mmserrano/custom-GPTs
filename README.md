@@ -7,17 +7,17 @@ A collection of specialized AI custom assistants built on chatGPT platform to he
 
 ## 🧩 Components
 
-### [LexVan - Legal Assistant GPT](/custom-GPTs/CamperVan%20Legislations)
+### [LexVan - Legal CamperVan Assistant GPT](https://github.com/mmserrano/custom-GPTs/tree/master/CamperVan%20Legislations)
 Specialized legal assistant for vehicle housing regulations in Europe, providing accurate and verifiable information from official sources.
 
-### [C.R.A.F.T. Prompt Builder](/custom-GPTs/Prompt%20Builder)
+### [C.R.A.F.T. Prompt Builder](https://github.com/mmserrano/custom-GPTs/tree/master/Prompt%20Builder)
 Expert-level prompt engineering assistant that helps create structured, effective prompts for various AI models using the C.R.A.F.T. methodology.
 
 ## 🚀 Quick Start
 
 1. **Access GPTs**
    - LexVan: [Access here](https://chatgpt.com/g/g-67e06d1334608191b4169c3feebb3acd-lexvan)
-   - C.R.A.F.T.: [Access here](https://chatgpt.com/g/g-67ada21c35fc8191bcc2c23912824d18-creador-de-prompts)
+   - C.R.A.F.T. Prompt Builder: [Access here](https://chatgpt.com/g/g-67ada21c35fc8191bcc2c23912824d18-creador-de-prompts)
 
 
 ## 📬 Contact
